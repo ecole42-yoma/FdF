@@ -1,0 +1,9 @@
+/Libf-test
+/libft-unit-test
+/libft-war-machine
+/libft-tester
+*.o
+*.a
+*.swo
+main2.*
+listtest.c
